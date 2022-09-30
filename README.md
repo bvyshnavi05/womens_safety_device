@@ -6,8 +6,8 @@ A extended version of ARD and its feature tooo which includes sending a picture 
 
 in order to work , BOTH ARD1 And ARD2 should be complied at  time ,
 
-#file
+# file
 it is a program deals with sending a photo of the person whom belived to be a harraser when the alert button is presssed for more than 3 seconds , and sent to the mail and saves the file is the memory and shows the latest photographs
 
-#file1
+# file1
 it deals with the HOSTING the pic of the person and the revealing the location of the victim , and these hosted links are also sent via mails .In order to track the person 
